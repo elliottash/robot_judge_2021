@@ -7,4 +7,8 @@ Lecture slides (slides), code examples (notebooks), and homework assignments (as
 
 Thanks to Christoph Goessmann, Malka Guillot, and Claudia Marangon for contributions to these materials.
 
-[Autumn 2020 version](https://github.com/elliottash/robot_judge_2020)
+[Autumn 2020 version](https://github.com/elliottash/robot_judge_2020) <br>
+[Autumn 2021 version](https://github.com/elliottash/robot_judge_2021) <br>
+[Autumn 2022 version](https://github.com/elliottash/robot_judge_2022) <br>
+[Autumn 2023 version](https://github.com/elliottash/robot_judge_2023)
+
